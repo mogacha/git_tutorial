@@ -27,6 +27,6 @@ erDiagram
         timestamp deleted_at "削除日時"
         timestamp created_at "作成日時"
         timestamp updated_at "更新日時"
-        int      testint     1
+        int      testint     "1"
     }
 ```
