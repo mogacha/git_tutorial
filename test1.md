@@ -28,5 +28,6 @@ erDiagram
         timestamp created_at "作成日時"
         timestamp updated_at "更新日時"
         int      testint     "1"
+        varchar   addsomething  "nanika"
     }
 ```
